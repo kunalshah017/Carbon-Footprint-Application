@@ -1,0 +1,12 @@
+My app will start with an instruction screen 
+
+then it will ask user 10 environmental based question about how they are contributing to the environment 
+
+answering each question will give user (1 mark or 0 mark or -1 mark) 
+ so the total scroe will be 10 
+
+ if a user scores above 7 then the user will silver footprint else user will get black footprint
+
+to implement this user have to choose from three options (a,b,c) and this option choosed will decide their marks 
+
+at last user will get to see there total marks obtained and after some loading the image will be shown 

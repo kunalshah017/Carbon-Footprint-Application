@@ -1,0 +1,14 @@
+Carbon Footprints 
+
+I got this idea from a chapter in my 10 std textbook, named Footprints it is from a marathi textbook where a character makes such app 
+we will try to recreate such app in c++ 
+It is an easy project for beginerrs as I am also learning C++ 
+
+project idea is to show one his or her carbon footprints 
+the assets required are present in description 
+
+the app will ask user some environmental based question where user have to answer honestly once answered all questions app will show users footprint
+
+You can make you own app by this idea and feel free to use the assets given by me 
+
+
